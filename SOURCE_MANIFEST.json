@@ -1,0 +1,232 @@
+{
+  "project": "PaperRoute",
+  "version": "0.1.0",
+  "repository": "https://github.com/508liang/PaperRoute",
+  "upstream_shell_license": "unspecified; see LICENSE_SCOPE.md",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "9aa654f852bec4154aa92bbba4b93351883e661f0b567b3eab94cfc108fa3848"
+    },
+    {
+      "path": "_launcher.py",
+      "sha256": "3970898acb191319739339996060b650d492fa6a75434235851933e89c2a8dd7"
+    },
+    {
+      "path": "assets/checkmark.svg",
+      "sha256": "2f60e75ada785ea66c5d56d34ff22852153130e0ee69ec1e0ba669acf99a06d3"
+    },
+    {
+      "path": "assets/chevron-down.svg",
+      "sha256": "7b8f6e753298c55e77a4a9358a229583b7934cb976c6c194f3a06fa3297a59a3"
+    },
+    {
+      "path": "assets/chevron-up.svg",
+      "sha256": "c69d9df6e5ae6dcb83e8a59b7c7c31cd86a3bcc960b797730e800d6943fa7c54"
+    },
+    {
+      "path": "assets/paperroute-workspace.png",
+      "sha256": "dbed425b5a26e422d62ebda534d12e0b3b042b39db2f75e7c06e2818eb7b3c05"
+    },
+    {
+      "path": "assets/paperroute.ico",
+      "sha256": "401577269448f677845c7ec7fdaea7932a8e18545a4de9a85041060d6cbbebae"
+    },
+    {
+      "path": "assets/paperroute.png",
+      "sha256": "0d65fbc8b5f2314f1c9cb9478fc996cfe67c34ab889f36338c3a82cd581c6a22"
+    },
+    {
+      "path": "assets/paperroute.svg",
+      "sha256": "af45ab04962e27918de2e7582ab7f650e867738321d449a17aa6aceb855251d4"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "4a29893f5e1b8240463b3bf97fbaf234102961d58d6e6aa11ec22350fb7018e5"
+    },
+    {
+      "path": "config/app.json",
+      "sha256": "66d374ce6f5411005f0c51656517d5b18bf208ece48f5d9bcc3a0c6401c736d5"
+    },
+    {
+      "path": "config/local_models.example.json",
+      "sha256": "2d3b1dc26a11c1e784240f0749ac403d6a284adb3f4060cebae93a29bfca0ead"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/__init__.py",
+      "sha256": "bd2e17c47e019a6544b7b543b91c14c2fa728eeefd5ba141ef240e21f1204795"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/backend.py",
+      "sha256": "413529389811556c72bcc65c1dd3def2a05d0df8a26a7df1b592e5f75c7a5b63"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/cache.py",
+      "sha256": "322c6b0ea5f4ab82ed33d905ff6e6b6aed6a03a063e02972d8826ad4cd865214"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/config.py",
+      "sha256": "772dbaf3f3fd10c6bb3963051e41db5101db9ed25d3035ce0abd088e95a32957"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/converter.py",
+      "sha256": "0493c15c2ff551d9e6c04e4e2b0a9b787a8ab0d4e9116101e45b0bd724716791"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/doclayout.py",
+      "sha256": "a250170af559bc5933b11e62c1e6a6d9926a52286ebf9102e0f553e73aa76141"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/failover.py",
+      "sha256": "092e71d06c2b4add6e725af67de6b2fdeb435009f6ff54b34281950c63a56a6a"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/gui_pyqt5.py",
+      "sha256": "174ee6851e771a470ae606fa62c59fb9408dede4a1633a442e611575d25e4460"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/high_level.py",
+      "sha256": "e5f157d531f854bb97e27f7f84c1d065329b0920e6b5d2e979862b73917dc6a8"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/local_config.py",
+      "sha256": "7d94bf3f053ec9140a70d4106559abb37cf6668ebeafb579fea2295288d187a4"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/mcp_server.py",
+      "sha256": "9e75cdf634959ff0b4f1b59510247de9d196387aa700a1445f5f2b5d39673dd9"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/model_pool_dialog.py",
+      "sha256": "a461722e7c3ab9af2141559bb765b08bd62430280c7673bae6b11416a424421b"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/paperroute_brand.py",
+      "sha256": "1af68c4966f4465344daedd691d43448901cb9a4bf86a6e6a37bcdd26440abfb"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/pdf2zh.py",
+      "sha256": "8e399e63fbb1989d599f37cd40b67968212b00e26c15306a775301c59323b64c"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/pdfinterp.py",
+      "sha256": "092148b6ca16a16d6187ddabb0711ebeffd896283794b4cf37652f03acedca88"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/translator.py",
+      "sha256": "e245914dcfa44d1183e40c010e7f872b61a362c951e0f99722202c8210e297cd"
+    },
+    {
+      "path": "core/site-packages/pdf2zh/window_activation.py",
+      "sha256": "3c87c941c16a6291b65984b8d258fc75639dded7d7765e6f68ffb0387cb87a4b"
+    },
+    {
+      "path": "docs/ALIYUN.md",
+      "sha256": "3292a5886854ef0fd1063671de31d830d24e9bba5cadd7fd047df33b1f26612b"
+    },
+    {
+      "path": "docs/BUILDING.md",
+      "sha256": "a96f4f642e31a542942df1a0fc4703687fa6f54cd6fafe8cf6f26a2f43bd79d4"
+    },
+    {
+      "path": "launcher_src/PaperRouteLauncher.cs",
+      "sha256": "c339ad7919427d591d0e26990144d0902a1565164d26a4f9d27f500c4dba1797"
+    },
+    {
+      "path": "launcher_src/PaperRouteSingleFile.cs",
+      "sha256": "23dd48164fea423c625effbb75a94d002f6a4d8e5e520a200f3150c38d77faba"
+    },
+    {
+      "path": "launcher_src/PaperRouteSingleFile.manifest",
+      "sha256": "bf179126f791d3cd4989c2f4e791715a3865dc31e5adcecb754b199cd500d49d"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "6f1e622c82a380075843bb084a7ec3b1f1d12a4a02526d75e78b0924a860aa75"
+    },
+    {
+      "path": "LICENSE_SCOPE.md",
+      "sha256": "ce4dfc4e7bef418f1b1831b74fda4e328427170d22d9a28ee13c74e1cedfb332"
+    },
+    {
+      "path": "licenses/BabelDOC-AGPL-3.0.txt",
+      "sha256": "afca41723b45e26069f68d485bf906a202f892f90c801d3052f8e6296bb41454"
+    },
+    {
+      "path": "licenses/Microsoft-VC-Runtime.rtf",
+      "sha256": "8099dc3cf9502c335da829e5c755948a12e3e6de490eb492a99deb673d883d8b"
+    },
+    {
+      "path": "licenses/PDFMathTranslate-AGPL-3.0.txt",
+      "sha256": "6f1e622c82a380075843bb084a7ec3b1f1d12a4a02526d75e78b0924a860aa75"
+    },
+    {
+      "path": "licenses/SourceHanSerif-OFL-1.1.txt",
+      "sha256": "9ff5bb567e1b92c801fc1069e5fbf992ff8efccacb9db94e5959a5b3ba9bb903"
+    },
+    {
+      "path": "PUBLISHING.md",
+      "sha256": "5a0749be20e5f322f8ade9c180cbb0b3d30121d343f725035dcc6962848031b2"
+    },
+    {
+      "path": "README.md",
+      "sha256": "96d2a70f72adfd26319027782576017a995f19ffa76484cb07505f568ed98f76"
+    },
+    {
+      "path": "README_EN.md",
+      "sha256": "e26124018eed99f3241b8f8fb58537248eaa49898335d996bc629110b5708cdf"
+    },
+    {
+      "path": "scripts/build_icon.py",
+      "sha256": "75812cfd222cf04df28fb290e2f2e1e9957ca284b9c00214843d376db1c2773e"
+    },
+    {
+      "path": "scripts/build_launcher.ps1",
+      "sha256": "116da53bc194d60f6d2e3a54a60d9f8fb333386d73b5c05afa2740b6a1e4d1c7"
+    },
+    {
+      "path": "scripts/build_single_file.py",
+      "sha256": "46684a480161183d10dbe02e1740180a66f547fa95382af7e53ab5e1668d82d3"
+    },
+    {
+      "path": "scripts/make_source_bundle.py",
+      "sha256": "84efdd74503b5f8d72d26f62ac6d205d51a51ef8ba261477e2d216041117809e"
+    },
+    {
+      "path": "scripts/prepare_vc_runtime.py",
+      "sha256": "efed3a0f71d076c3f86445cbffa370968e1f35c8a8deadaceceafac0f16794f7"
+    },
+    {
+      "path": "scripts/setup_local_edition.py",
+      "sha256": "c619eae8e115b1a60cef6318c56059ec79cb5d0dc2e57205dee176134a3be6ad"
+    },
+    {
+      "path": "tests/test_local_edition.py",
+      "sha256": "6e8b235db833f08c05fd0e07b92df98d0a30e453ad03cfc1948952b51bcf6bb4"
+    },
+    {
+      "path": "tests/verify_exe_activation.py",
+      "sha256": "a53f49a746a76f3861d648ac686550fd47939a59a3fb96efa5f34e4964c070fe"
+    },
+    {
+      "path": "tests/verify_launcher.py",
+      "sha256": "26f5a36bb72dfb9b61fe55d6b6fb55f7d3076cedb93f892782d456a8ce6cbedb"
+    },
+    {
+      "path": "tests/verify_packaged_ui.py",
+      "sha256": "4d8fbd1ddb664f1cec815d5733ab169f167fdaf38b8eb04080e528070b398030"
+    },
+    {
+      "path": "tests/verify_pdf_pipeline.py",
+      "sha256": "f9c0bca1c884c0f1e0e969e81d04680fa8580b0b74847387d2ff6c6803395ac1"
+    },
+    {
+      "path": "tests/verify_single_file.py",
+      "sha256": "f7fd644eaf06d6ba3dc23dc7dde58b9538dae4bacde0fca3b199776cfd346cb7"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "69b49f71de900e24175511a5b96748858d3bbfd8ae1878b4525d392487b3ae0e"
+    }
+  ]
+}

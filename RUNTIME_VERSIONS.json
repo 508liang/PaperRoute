@@ -1,0 +1,492 @@
+[
+  {
+    "name": "aiofiles",
+    "version": "24.1.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "annotated-types",
+    "version": "0.7.0",
+    "license": ""
+  },
+  {
+    "name": "anyio",
+    "version": "4.9.0",
+    "license": "MIT"
+  },
+  {
+    "name": "azure-ai-translation-text",
+    "version": "1.0.1",
+    "license": "MIT License"
+  },
+  {
+    "name": "azure-core",
+    "version": "1.34.0",
+    "license": "MIT License"
+  },
+  {
+    "name": "BabelDOC",
+    "version": "0.2.33",
+    "license": "AGPL-3.0"
+  },
+  {
+    "name": "bitarray",
+    "version": "3.4.0",
+    "license": "PSF-2.0"
+  },
+  {
+    "name": "bitstring",
+    "version": "4.3.1",
+    "license": ""
+  },
+  {
+    "name": "certifi",
+    "version": "2025.4.26",
+    "license": "MPL-2.0"
+  },
+  {
+    "name": "cffi",
+    "version": "2.0.0",
+    "license": "MIT"
+  },
+  {
+    "name": "charset-normalizer",
+    "version": "3.4.2",
+    "license": "MIT"
+  },
+  {
+    "name": "click",
+    "version": "8.1.8",
+    "license": ""
+  },
+  {
+    "name": "click-default-group",
+    "version": "1.2.4",
+    "license": ""
+  },
+  {
+    "name": "colorama",
+    "version": "0.4.6",
+    "license": ""
+  },
+  {
+    "name": "coloredlogs",
+    "version": "15.0.1",
+    "license": "MIT"
+  },
+  {
+    "name": "ConfigArgParse",
+    "version": "1.7",
+    "license": "MIT"
+  },
+  {
+    "name": "cryptography",
+    "version": "44.0.3",
+    "license": "Apache-2.0 OR BSD-3-Clause"
+  },
+  {
+    "name": "deepl",
+    "version": "1.22.0",
+    "license": "MIT"
+  },
+  {
+    "name": "Deprecated",
+    "version": "1.2.18",
+    "license": "MIT"
+  },
+  {
+    "name": "distro",
+    "version": "1.9.0",
+    "license": "Apache License, Version 2.0"
+  },
+  {
+    "name": "filelock",
+    "version": "3.18.0",
+    "license": "Unlicense"
+  },
+  {
+    "name": "flatbuffers",
+    "version": "25.2.10",
+    "license": "Apache 2.0"
+  },
+  {
+    "name": "fonttools",
+    "version": "4.57.0",
+    "license": "MIT"
+  },
+  {
+    "name": "freetype-py",
+    "version": "2.5.1",
+    "license": ""
+  },
+  {
+    "name": "fsspec",
+    "version": "2025.3.2",
+    "license": "BSD 3-Clause License\n\nCopyright (c) 2018, Martin Durant\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following"
+  },
+  {
+    "name": "h11",
+    "version": "0.16.0",
+    "license": "MIT"
+  },
+  {
+    "name": "httpcore",
+    "version": "1.0.9",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "httpx",
+    "version": "0.28.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "huggingface-hub",
+    "version": "0.31.1",
+    "license": "Apache"
+  },
+  {
+    "name": "humanfriendly",
+    "version": "10.0",
+    "license": "MIT"
+  },
+  {
+    "name": "idna",
+    "version": "3.10",
+    "license": ""
+  },
+  {
+    "name": "imageio",
+    "version": "2.37.0",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "isodate",
+    "version": "0.7.2",
+    "license": "Copyright (c) 2021, Hugo van Kemenade and contributors\nCopyright (c) 2009-2018, Gerhard Weis and contributors\nCopyright (c) 2009, Gerhard Weis\nAll rights reserved.\n\nRedistribution and use in source an"
+  },
+  {
+    "name": "Jinja2",
+    "version": "3.1.6",
+    "license": ""
+  },
+  {
+    "name": "jiter",
+    "version": "0.13.0",
+    "license": ""
+  },
+  {
+    "name": "lazy_loader",
+    "version": "0.4",
+    "license": "BSD 3-Clause License\n\nCopyright (c) 2022--2023, Scientific Python project\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided "
+  },
+  {
+    "name": "Levenshtein",
+    "version": "0.27.1",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "lxml",
+    "version": "5.4.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "markdown-it-py",
+    "version": "3.0.0",
+    "license": ""
+  },
+  {
+    "name": "MarkupSafe",
+    "version": "3.0.2",
+    "license": "Copyright 2010 Pallets\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are\nmet:\n\n1.  Redistributions of source co"
+  },
+  {
+    "name": "mdurl",
+    "version": "0.1.2",
+    "license": ""
+  },
+  {
+    "name": "ml_dtypes",
+    "version": "0.5.4",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "msgpack",
+    "version": "1.1.0",
+    "license": "Apache 2.0"
+  },
+  {
+    "name": "numpy",
+    "version": "2.4.2",
+    "license": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0"
+  },
+  {
+    "name": "ollama",
+    "version": "0.4.8",
+    "license": "MIT"
+  },
+  {
+    "name": "onnx",
+    "version": "1.20.1",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "onnxruntime",
+    "version": "1.21.1",
+    "license": "MIT License"
+  },
+  {
+    "name": "openai",
+    "version": "1.77.0",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "opencv-python-headless",
+    "version": "4.11.0.86",
+    "license": "Apache 2.0"
+  },
+  {
+    "name": "orjson",
+    "version": "3.10.18",
+    "license": "Apache-2.0 OR MIT"
+  },
+  {
+    "name": "packaging",
+    "version": "25.0",
+    "license": ""
+  },
+  {
+    "name": "pdf2zh",
+    "version": "1.9.9",
+    "license": "AGPL-3.0"
+  },
+  {
+    "name": "pdfminer.six",
+    "version": "20250416",
+    "license": "MIT"
+  },
+  {
+    "name": "peewee",
+    "version": "3.18.1",
+    "license": "MIT License"
+  },
+  {
+    "name": "pikepdf",
+    "version": "9.7.0",
+    "license": "MPL-2.0"
+  },
+  {
+    "name": "pillow",
+    "version": "11.2.1",
+    "license": "MIT-CMU"
+  },
+  {
+    "name": "protobuf",
+    "version": "6.33.5",
+    "license": "3-Clause BSD License"
+  },
+  {
+    "name": "psutil",
+    "version": "7.0.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "pyclipper",
+    "version": "1.3.0.post6",
+    "license": "MIT"
+  },
+  {
+    "name": "pycparser",
+    "version": "3.0",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "pydantic",
+    "version": "2.12.5",
+    "license": "MIT"
+  },
+  {
+    "name": "pydantic_core",
+    "version": "2.41.5",
+    "license": "MIT"
+  },
+  {
+    "name": "Pygments",
+    "version": "2.19.1",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "PyMuPDF",
+    "version": "1.26.7",
+    "license": "Dual Licensed - GNU AFFERO GPL 3.0 or Artifex Commercial License"
+  },
+  {
+    "name": "PyQt5",
+    "version": "5.15.11",
+    "license": "GPL v3"
+  },
+  {
+    "name": "PyQt5-Qt5",
+    "version": "5.15.2",
+    "license": "LGPL v3"
+  },
+  {
+    "name": "PyQt5_sip",
+    "version": "12.18.0",
+    "license": "BSD-2-Clause"
+  },
+  {
+    "name": "python-dateutil",
+    "version": "2.9.0.post0",
+    "license": "Dual License"
+  },
+  {
+    "name": "python-Levenshtein",
+    "version": "0.27.1",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "name": "python-multipart",
+    "version": "0.0.20",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "PyYAML",
+    "version": "6.0.2",
+    "license": "MIT"
+  },
+  {
+    "name": "RapidFuzz",
+    "version": "3.13.0",
+    "license": "MIT"
+  },
+  {
+    "name": "rapidocr-onnxruntime",
+    "version": "1.4.4",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "regex",
+    "version": "2024.11.6",
+    "license": "Apache Software License"
+  },
+  {
+    "name": "requests",
+    "version": "2.32.3",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "rich",
+    "version": "14.0.0",
+    "license": "MIT"
+  },
+  {
+    "name": "semantic-version",
+    "version": "2.10.0",
+    "license": "BSD"
+  },
+  {
+    "name": "shapely",
+    "version": "2.1.0",
+    "license": "BSD 3-Clause"
+  },
+  {
+    "name": "six",
+    "version": "1.17.0",
+    "license": "MIT"
+  },
+  {
+    "name": "sniffio",
+    "version": "1.3.1",
+    "license": "MIT OR Apache-2.0"
+  },
+  {
+    "name": "tenacity",
+    "version": "9.1.2",
+    "license": "Apache 2.0"
+  },
+  {
+    "name": "tencentcloud-sdk-python-common",
+    "version": "3.0.1374",
+    "license": "Apache License 2.0"
+  },
+  {
+    "name": "tencentcloud-sdk-python-tmt",
+    "version": "3.0.1374",
+    "license": "Apache License 2.0"
+  },
+  {
+    "name": "tifffile",
+    "version": "2025.3.30",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "tiktoken",
+    "version": "0.9.0",
+    "license": "MIT License\n\nCopyright (c) 2022 OpenAI, Shantanu Jain\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\")"
+  },
+  {
+    "name": "toml",
+    "version": "0.10.2",
+    "license": "MIT"
+  },
+  {
+    "name": "tomlkit",
+    "version": "0.13.2",
+    "license": "MIT"
+  },
+  {
+    "name": "toposort",
+    "version": "1.10",
+    "license": "Apache License Version 2.0"
+  },
+  {
+    "name": "tqdm",
+    "version": "4.67.1",
+    "license": "MPL-2.0 AND MIT"
+  },
+  {
+    "name": "typer",
+    "version": "0.15.3",
+    "license": ""
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.15.0",
+    "license": "PSF-2.0"
+  },
+  {
+    "name": "typing-inspection",
+    "version": "0.4.2",
+    "license": "MIT"
+  },
+  {
+    "name": "untokenize",
+    "version": "0.1.1",
+    "license": "Expat License"
+  },
+  {
+    "name": "urllib3",
+    "version": "2.4.0",
+    "license": "MIT"
+  },
+  {
+    "name": "websockets",
+    "version": "15.0.1",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "name": "wrapt",
+    "version": "1.17.2",
+    "license": "BSD"
+  },
+  {
+    "name": "xinference-client",
+    "version": "1.5.1",
+    "license": "Apache License 2.0"
+  },
+  {
+    "name": "xsdata",
+    "version": "25.4",
+    "license": "MIT"
+  }
+]
