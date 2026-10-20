@@ -170,11 +170,11 @@
     },
     {
       "path": "README.md",
-      "sha256": "96d2a70f72adfd26319027782576017a995f19ffa76484cb07505f568ed98f76"
+      "sha256": "8ede199f9eb126bf5c19226fe2da85f4f74ff584431cd406ad7188378ad19748"
     },
     {
       "path": "README_EN.md",
-      "sha256": "e26124018eed99f3241b8f8fb58537248eaa49898335d996bc629110b5708cdf"
+      "sha256": "69bc4186b34f0e0f7e9c5b3f0a581da35882eb1b699164ac1a4db45162669023"
     },
     {
       "path": "scripts/build_icon.py",

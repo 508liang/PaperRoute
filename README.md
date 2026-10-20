@@ -19,16 +19,16 @@
 
 ## 阿里云百炼示例
 
-北京地域可以使用以下配置：
+可参考以下配置：
 
 | 配置项 | 示例 |
 | --- | --- |
 | API 地址 | `https://dashscope.aliyuncs.com/compatible-mode/v1` |
 | 模型名 | `qwen-plus`，可复制一行改为 `qwen-flash` 作为备用 |
-| API Key | 自己在同地域百炼控制台创建的 Key |
+| API Key | 自己在百炼控制台创建的 API Key |
 | 关闭思考 | 这两个示例模型可勾选 |
 
-阿里云目前推荐业务空间专属域名，例如北京地域的 `https://{WorkspaceId}.cn-beijing.maas.aliyuncs.com/compatible-mode/v1`；也可直接复制控制台给出的地址。上表旧域名仍兼容，接口地址和 Key 必须对应同一地域，详见[阿里云官方文档](https://help.aliyun.com/zh/model-studio/compatibility-of-openai-with-dashscope)。
+API 地址也可直接复制百炼控制台提供的 OpenAI 兼容地址，配置说明见[阿里云官方文档](https://help.aliyun.com/zh/model-studio/compatibility-of-openai-with-dashscope)。
 
 完整步骤、备用模型、限流和常见报错见 [docs/ALIYUN.md](docs/ALIYUN.md)。模型可用性、价格与额度以百炼控制台为准。
 
@@ -59,4 +59,4 @@ PaperRoute 由 [@508liang](https://github.com/508liang) 与 Codex 协作二次�
 
 翻译核心基于 [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)；Windows 桌面代码基于 [AaronGIG/pdf2zh-desktop](https://github.com/AaronGIG/pdf2zh-desktop) 改造，排版相关组件包括 [BabelDOC](https://github.com/funstory-ai/BabelDOC)。感谢原作者和贡献者。本项目为独立衍生版本。
 
-核心组件和新增代码的许可证资料随仓库提供。原桌面外壳的独立许可未在检查的上游仓库中找到，本文不将其授权状态描述为已确认，也不通过根目录 LICENSE 重新许可第三方代码。完整范围见 [LICENSE_SCOPE.md](LICENSE_SCOPE.md)、[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) 与 [发布说明](PUBLISHING.md)。
+许可证与第三方组件说明见 [LICENSE](LICENSE)、[LICENSE_SCOPE.md](LICENSE_SCOPE.md) 和 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
